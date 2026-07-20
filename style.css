@@ -644,53 +644,6 @@ section, .site-footer { scroll-margin-top: var(--header-height); }
   line-height: 1.6;
 }
 
-.instagram-feed { position: relative; }
-
-.instagram-placeholder-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 4px;
-  border-radius: 16px;
-  overflow: hidden;
-  filter: blur(1px);
-}
-.instagram-placeholder-tile {
-  aspect-ratio: 1 / 1;
-  background: linear-gradient(145deg, var(--color-bg-alt) 0%, #e4e2db 100%);
-}
-.instagram-placeholder-tile:nth-child(3n+1) { background: linear-gradient(145deg, #ece9e1 0%, var(--color-bg-alt) 100%); }
-
-.instagram-placeholder-cta {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
-  text-align: center;
-  background: rgba(251, 250, 248, 0.55);
-}
-.instagram-placeholder-icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 56px;
-  height: 56px;
-  border-radius: 50%;
-  background: #fff;
-  color: var(--color-primary);
-  box-shadow: 0 12px 28px -12px rgba(21, 23, 27, 0.25);
-}
-.instagram-placeholder-cta p {
-  font-weight: 600;
-  color: var(--color-dark);
-}
-
-@media (max-width: 640px) {
-  .instagram-placeholder-grid { grid-template-columns: repeat(2, 1fr); }
-}
-
 /* ---------- Contato ---------- */
 .contato {
   padding-block: 96px;
