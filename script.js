@@ -73,6 +73,35 @@
 
   window.addEventListener('load', runPreloader);
 
+  /* ═══════════ Carrossel automático da Hero ═══════════
+     3 slides, avanço automático a cada SLIDE_MS, com barra de
+     temporizador (estilo stories) sincronizada via CSS animation
+     (ver @keyframes hero-timer-fill, duração precisa bater com SLIDE_MS). */
+  var heroCarousel = document.getElementById('heroCarousel');
+  if (heroCarousel) {
+    var heroSlides = Array.prototype.slice.call(heroCarousel.querySelectorAll('.hero-slide'));
+    var heroBars = Array.prototype.slice.call(heroCarousel.querySelectorAll('.hero-timer-bar'));
+    var heroCurrent = 0;
+    var HERO_SLIDE_MS = 5000;
+
+    var setHeroSlide = function (index) {
+      heroCurrent = index;
+      heroSlides.forEach(function (slide, i) {
+        slide.classList.toggle('is-active', i === heroCurrent);
+      });
+      heroBars.forEach(function (bar, i) {
+        bar.classList.remove('is-active', 'is-done');
+        if (i < heroCurrent) bar.classList.add('is-done');
+        else if (i === heroCurrent) bar.classList.add('is-active');
+      });
+    };
+
+    setHeroSlide(0);
+    setInterval(function () {
+      setHeroSlide((heroCurrent + 1) % heroSlides.length);
+    }, HERO_SLIDE_MS);
+  }
+
   /* ═══════════ Menu mobile ═══════════ */
   var navToggle = document.getElementById('navToggle');
   var navMenu = document.getElementById('navMenu');

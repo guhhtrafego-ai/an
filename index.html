@@ -154,10 +154,22 @@
 <main>
   <!-- ═══════════ Hero / Início ═══════════ -->
   <section id="inicio" class="hero">
-    <div class="hero-video-bg" aria-hidden="true">
-      <video autoplay muted loop playsinline>
-        <source src="videohero.mp4" type="video/mp4">
-      </video>
+    <div class="hero-carousel" id="heroCarousel" aria-hidden="true">
+      <div class="hero-carousel-timer">
+        <span class="hero-timer-bar"></span>
+        <span class="hero-timer-bar"></span>
+        <span class="hero-timer-bar"></span>
+      </div>
+
+      <div class="hero-slide is-active">
+        <img src="imghero.jpg" alt="Obra com infraestrutura elétrica e hidráulica aparente" loading="eager">
+      </div>
+      <div class="hero-slide">
+        <img src="img2.webp" alt="Quadro elétrico aberto com fiação e disjuntores" loading="lazy">
+      </div>
+      <div class="hero-slide">
+        <img src="img3.jpg" alt="Obra com infraestrutura hidráulica e elétrica subterrânea" loading="lazy">
+      </div>
     </div>
 
     <div class="container hero-inner">
