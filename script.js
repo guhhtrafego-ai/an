@@ -102,6 +102,50 @@
     }, HERO_SLIDE_MS);
   }
 
+  /* ═══════════ Navegação com URLs limpas (History API) ═══════════
+     Os links continuam com href="#secao" no HTML (funcionam nativamente
+     se o JS falhar). No clique, a gente rola manualmente E troca a URL
+     pra /secao via pushState — sem hash, sem recarregar a página. Pra
+     um link direto tipo aneletrica.com/clientes (digitado, atualizado
+     ou compartilhado) funcionar, o servidor precisa devolver o
+     index.html nessas rotas — ver .htaccess na raiz do site. */
+  var SECTIONS = ['inicio', 'clientes', 'servicos', 'sobre', 'projetos', 'contato'];
+
+  function scrollToId(id, smooth) {
+    var target = document.getElementById(id);
+    if (!target) return;
+    target.scrollIntoView({ behavior: smooth ? (reduced ? 'auto' : 'smooth') : 'auto' });
+  }
+
+  function idFromPath(pathname) {
+    var id = pathname.replace(/^\/|\/$/g, '');
+    return SECTIONS.indexOf(id) !== -1 ? id : null;
+  }
+
+  document.querySelectorAll('a[href^="#"]').forEach(function (link) {
+    link.addEventListener('click', function (e) {
+      var id = link.getAttribute('href').slice(1);
+      if (SECTIONS.indexOf(id) === -1) return;
+      e.preventDefault();
+      scrollToId(id, true);
+      var path = '/' + id;
+      if (window.location.pathname !== path) {
+        history.pushState({ id: id }, '', path);
+      }
+    });
+  });
+
+  window.addEventListener('popstate', function () {
+    scrollToId(idFromPath(window.location.pathname) || 'inicio', true);
+  });
+
+  var initialId = idFromPath(window.location.pathname);
+  if (initialId && initialId !== 'inicio') {
+    window.addEventListener('load', function () {
+      scrollToId(initialId, false);
+    });
+  }
+
   /* ═══════════ Menu mobile ═══════════ */
   var navToggle = document.getElementById('navToggle');
   var navMenu = document.getElementById('navMenu');
