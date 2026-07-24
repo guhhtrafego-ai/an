@@ -1,0 +1,582 @@
+# Documento de Informações e Copywriting
+
+## A.N. Instalações Elétricas
+
+---
+
+# 1. Informações da empresa
+
+**Nome da empresa:** A.N. Instalações Elétricas
+**CNPJ:** 09.420.215/0001-36
+**Fundação:** 11/02/2008
+**Tempo de mercado:** mais de 18 anos de atuação
+**Endereço:** R. Tiquatira, 609 - Bosque da Saúde, São Paulo - SP, 04137-111
+**Telefone / WhatsApp:** (11) 98174-1828
+**E-mail:** [an_eletrica@hotmail.com](mailto:an_eletrica@hotmail.com)
+**Cidade de atuação:** São Paulo - SP
+
+**Segmento:**
+Instalações elétricas, manutenção elétrica, projetos elétricos, vistorias, laudos técnicos, quadros elétricos, painéis e soluções elétricas para residências, empresas, comércios e obras.
+
+---
+
+# 2. Posicionamento da empresa
+
+A A.N. Instalações Elétricas é uma empresa especializada em soluções elétricas residenciais, comerciais e prediais em São Paulo.
+
+Com mais de 18 anos de experiência no mercado, a empresa atua com foco em segurança, qualidade técnica, responsabilidade e atendimento personalizado, oferecendo serviços para obras, reformas, manutenções, adequações e projetos elétricos.
+
+A empresa atende clientes que buscam instalações elétricas bem executadas, manutenção confiável e soluções técnicas para evitar riscos, falhas e problemas futuros.
+
+---
+
+# 3. Proposta de valor
+
+A A.N. Instalações Elétricas oferece soluções elétricas completas para residências, empresas e obras, unindo experiência, segurança e qualidade na execução.
+
+A empresa se posiciona como uma opção confiável para quem precisa de serviços elétricos executados com responsabilidade técnica, organização e atenção às normas de segurança.
+
+---
+
+# 4. Público-alvo
+
+A landing page deve conversar com:
+
+* Clientes residenciais que precisam de instalação elétrica, reforma ou manutenção.
+* Empresas que precisam de infraestrutura elétrica segura.
+* Comércios, lojas, escritórios e clínicas.
+* Obras em andamento.
+* Construtoras, engenheiros e arquitetos.
+* Condomínios e administradoras.
+* Clientes que precisam de laudos, vistorias ou adequações elétricas.
+
+---
+
+# 5. Mensagem central do site
+
+Instalações elétricas em São Paulo com mais de 18 anos de experiência, segurança e responsabilidade técnica.
+
+---
+
+# 6. Tom de comunicação
+
+A comunicação deve ser:
+
+* profissional
+* clara
+* segura
+* institucional
+* objetiva
+* confiável
+* técnica, mas fácil de entender
+
+Evitar uma linguagem muito informal ou exageradamente comercial.
+O texto deve passar confiança, experiência e seriedade.
+
+---
+
+# 7. Copy para seção Hero / Início
+
+## Título principal
+
+Instalações elétricas em São Paulo com mais de 18 anos de experiência
+
+## Subtítulo
+
+Projetos, manutenções, vistorias, laudos e instalações elétricas completas para residências, empresas, comércios e obras.
+
+## Texto de apoio
+
+Conte com uma equipe especializada para executar serviços elétricos com segurança, organização e responsabilidade técnica, desde pequenas manutenções até soluções completas para obras e empresas.
+
+## Botões sugeridos
+
+Solicitar orçamento
+Falar no WhatsApp
+
+## Selos de confiança
+
++18 anos de experiência
+Atendimento em São Paulo
+Residencial, comercial e predial
+Projetos, manutenção e instalações
+
+---
+
+# 9. Copy para seção Serviços
+
+## Título
+
+Soluções elétricas completas para sua residência, empresa ou obra
+
+## Subtítulo
+
+A A.N. Instalações Elétricas oferece serviços técnicos para instalações, manutenções, projetos, vistorias e adequações elétricas em São Paulo.
+
+---
+
+## Serviço 1 — Instalações Elétricas Residenciais
+
+Execução de instalações elétricas para casas e apartamentos, com segurança, organização e qualidade técnica.
+
+Ideal para obras novas, reformas, troca de fiação, instalação de tomadas, pontos de iluminação, quadros de energia e adequações elétricas.
+
+---
+
+## Serviço 2 — Instalações Elétricas Comerciais
+
+Soluções elétricas para lojas, escritórios, clínicas, galpões e empresas que precisam de uma infraestrutura segura e preparada para a rotina do negócio.
+
+Atendemos ambientes comerciais com planejamento, organização e execução técnica.
+
+---
+
+## Serviço 3 — Manutenção Elétrica Preventiva
+
+Inspeções e ações preventivas para reduzir riscos, falhas e interrupções no sistema elétrico.
+
+A manutenção preventiva ajuda a identificar problemas antes que eles causem prejuízos, paradas ou situações de risco.
+
+---
+
+## Serviço 4 — Manutenção Elétrica Corretiva
+
+Diagnóstico e correção de falhas elétricas, sobrecargas, disjuntores desarmando, tomadas aquecendo, mau funcionamento e outros problemas.
+
+Indicada para imóveis que apresentam sinais de instabilidade ou risco na instalação elétrica.
+
+---
+
+## Serviço 5 — Projetos Elétricos
+
+Planejamento técnico para obras, reformas e adequações elétricas, considerando a necessidade do imóvel, distribuição de cargas, pontos de energia e segurança da instalação.
+
+---
+
+## Serviço 6 — Laudos e Vistorias Elétricas
+
+Avaliação técnica das instalações elétricas para identificar irregularidades, riscos e necessidades de adequação.
+
+Ideal para empresas, imóveis comerciais, condomínios e locais que precisam de uma análise mais detalhada da parte elétrica.
+
+---
+
+## Serviço 7 — Quadros Elétricos e Painéis
+
+Montagem, organização e adequação de quadros de distribuição, painéis elétricos e sistemas de baixa tensão.
+
+Um quadro bem dimensionado e identificado facilita a manutenção, melhora a segurança e reduz riscos de falhas.
+
+---
+
+## Serviço 8 — Compatibilização de Projetos
+
+Análise técnica para reduzir interferências entre elétrica, arquitetura, hidráulica e outras disciplinas da obra.
+
+A compatibilização ajuda a evitar retrabalho, atrasos e problemas durante a execução.
+
+---
+
+## Serviço 9 — As Built / Documentação Técnica
+
+Elaboração de documentação técnica da instalação executada, facilitando futuras manutenções, ampliações e adequações.
+
+---
+
+## Serviço 10 — Adequações e Reformas Elétricas
+
+Atualização de instalações antigas para melhorar segurança, organização e funcionamento.
+
+Indicado para imóveis antigos, reformas comerciais, ampliações e adequações de carga.
+
+---
+
+# 10. Copy para seção Projetos
+
+## Título
+
+Projetos executados com segurança e qualidade técnica
+
+## Subtítulo
+
+Espaço reservado para apresentar obras, instalações, manutenções e soluções elétricas realizadas pela A.N. Instalações Elétricas.
+
+## Texto de apoio
+
+Cada projeto representa o compromisso da empresa com segurança, responsabilidade técnica e qualidade na execução.
+
+## Estrutura sugerida para os cards
+
+Projeto 01
+Título do projeto
+Descrição breve do serviço executado
+Categoria do projeto
+
+Projeto 02
+Título do projeto
+Descrição breve do serviço executado
+Categoria do projeto
+
+Projeto 03
+Título do projeto
+Descrição breve do serviço executado
+Categoria do projeto
+
+---
+
+# 11. Copy para seção Sobre
+
+## Título
+
+Experiência e responsabilidade em instalações elétricas
+
+## Texto (resumido para SEO)
+
+Somos uma empresa de Engenharia e Construção Civil especializada em instalações elétricas, atuando em São Paulo desde 2008. Nossa equipe é certificada com os cursos de segurança exigidos pelo setor, incluindo a NR10.
+
+Atendemos construtoras e clientes na capital e no interior de São Paulo — em cidades como Rio Claro, Boituva, Campinas e Itupéva — com uma equipe administrativa e técnica completa, comprometida com normas, regulamentações e segurança em cada projeto.
+
+## Imagem
+
+`sobre nós/sobre.webp` — foto da fachada da sede da empresa, usada à esquerda do texto na seção Sobre.
+
+## Estrutura para montagem de quadros elétricos
+
+A AN Instalações Elétricas possui estrutura para montagem de quadros elétricos de diferentes tipos e portes:
+
+- Quadros de Distribuição
+- Quadros de Baixa Tensão (QGBTs)
+- Painéis de Automação e Comando
+- Mesas de Comando
+
+---
+
+# 12. Diferenciais
+
+## Mais de 18 anos de experiência
+
+Uma trajetória construída com atendimentos, obras e soluções elétricas para diferentes tipos de clientes e necessidades.
+
+## Atendimento em São Paulo e região
+
+Atuação na capital e também em cidades do interior de São Paulo, como Rio Claro, Boituva, Campinas e Itupéva.
+
+## Soluções residenciais, comerciais e prediais
+
+Serviços elétricos para casas, apartamentos, empresas, comércios, obras e condomínios.
+
+## Segurança e responsabilidade técnica
+
+Cada serviço é executado com atenção aos cuidados necessários para reduzir riscos e garantir uma instalação segura.
+
+## Qualidade na execução
+
+Trabalho organizado, bem planejado e realizado com foco em durabilidade, funcionamento e segurança.
+
+## Atendimento personalizado
+
+Análise da necessidade de cada cliente para indicar a solução mais adequada.
+
+---
+
+# 13. Seção de problema e solução
+
+## Título
+
+Problemas elétricos não devem ser deixados para depois
+
+## Texto
+
+Disjuntores desarmando, tomadas aquecendo, queda de energia, fios antigos, mau dimensionamento e quadros desorganizados podem indicar riscos na instalação elétrica.
+
+A A.N. Instalações Elétricas realiza avaliação técnica para identificar o problema e propor a solução correta, evitando improvisos e reduzindo riscos para o imóvel, equipamentos e pessoas.
+
+## Botão
+
+Solicitar avaliação elétrica
+
+---
+
+# 14. Seção CTA intermediária
+
+## Título
+
+Precisa de uma instalação elétrica segura e bem executada?
+
+## Texto
+
+Entre em contato com a A.N. Instalações Elétricas e solicite uma avaliação ou orçamento para sua residência, empresa ou obra.
+
+## Botão
+
+Chamar no WhatsApp
+
+---
+
+# 15. Copy para seção Contato
+
+## Título
+
+Fale com a A.N. Instalações Elétricas
+
+## Subtítulo
+
+Solicite um orçamento, tire suas dúvidas ou agende uma avaliação técnica.
+
+## Informações de contato
+
+WhatsApp: (11) 98174-1828
+E-mail: [an_eletrica@hotmail.com](mailto:an_eletrica@hotmail.com)
+Endereço: R. Tiquatira, 609 - Bosque da Saúde, São Paulo - SP, 04137-111
+
+## Texto de apoio
+
+Nossa equipe está pronta para entender sua necessidade e indicar a melhor solução elétrica para seu imóvel, empresa ou obra.
+
+## Formulário
+
+Nome
+Telefone
+E-mail
+Mensagem
+
+## Botão do formulário
+
+Solicitar orçamento
+
+---
+
+# 16. FAQ / Perguntas frequentes
+
+## Vocês atendem residências e empresas?
+
+Sim. A A.N. Instalações Elétricas atende imóveis residenciais, comerciais, prediais e corporativos.
+
+## Vocês fazem manutenção elétrica?
+
+Sim. Realizamos manutenção preventiva e corretiva, identificando falhas e corrigindo problemas elétricos.
+
+## Vocês fazem projeto elétrico?
+
+Sim. Trabalhamos com projetos elétricos, compatibilização, execução e documentação técnica.
+
+## Vocês montam quadros elétricos?
+
+Sim. Realizamos montagem, organização e adequação de quadros de distribuição, painéis e sistemas elétricos.
+
+## É possível solicitar uma avaliação técnica?
+
+Sim. O atendimento pode ser iniciado pelo WhatsApp para entender a necessidade e verificar a melhor forma de avaliação.
+
+## Vocês atendem obras em andamento?
+
+Sim. Atuamos em obras novas, reformas, ampliações e adequações elétricas.
+
+---
+
+# 17. Frases curtas para botões
+
+Solicitar orçamento
+Falar no WhatsApp
+Agendar avaliação
+Conhecer serviços
+Ver projetos
+Entrar em contato
+Solicitar visita técnica
+Pedir orçamento agora
+
+---
+
+# 18. Frases de impacto para usar no site
+
+Instalação elétrica segura começa com planejamento técnico.
+
+Mais segurança, eficiência e qualidade para sua obra.
+
+Soluções elétricas completas para residências, empresas e obras.
+
+Evite riscos elétricos com uma instalação bem executada.
+
+Do projeto à execução, cuidamos da parte elétrica com responsabilidade.
+
+Sua empresa funcionando com mais segurança e menos imprevistos.
+
+Manutenção elétrica preventiva evita problemas maiores no futuro.
+
+Infraestrutura elétrica organizada, segura e preparada para sua necessidade.
+
+Mais de 18 anos de experiência em soluções elétricas em São Paulo.
+
+Segurança, qualidade e responsabilidade em cada instalação.
+
+---
+
+# 19. SEO básico
+
+## Palavra-chave principal
+
+instalações elétricas São Paulo
+
+## Palavras-chave secundárias
+
+empresa de instalações elétricas SP
+eletricista em São Paulo
+manutenção elétrica São Paulo
+projetos elétricos São Paulo
+laudo elétrico São Paulo
+vistoria elétrica São Paulo
+quadro elétrico São Paulo
+instalação elétrica residencial São Paulo
+instalação elétrica comercial São Paulo
+manutenção elétrica preventiva SP
+manutenção elétrica corretiva SP
+empresa de elétrica em São Paulo
+
+## Palavras-chave locais
+
+instalações elétricas Bosque da Saúde
+eletricista Bosque da Saúde
+empresa elétrica Vila da Saúde
+instalação elétrica zona sul São Paulo
+manutenção elétrica zona sul SP
+eletricista zona sul São Paulo
+empresa de elétrica zona sul
+
+---
+
+# 20. Meta title e meta description
+
+## Meta title
+
+A.N. Instalações Elétricas | Instalações e Manutenção Elétrica em São Paulo
+
+## Meta description
+
+Empresa de instalações elétricas em São Paulo com mais de 18 anos de experiência. Projetos, manutenção elétrica, laudos, vistorias e soluções para residências e empresas.
+
+---
+
+# 21. Rodapé
+
+## Texto institucional para o rodapé
+
+A.N. Instalações Elétricas | Soluções elétricas residenciais, comerciais e prediais em São Paulo.
+
+## Dados para o rodapé
+
+WhatsApp: (11) 98174-1828
+E-mail: [an_eletrica@hotmail.com](mailto:an_eletrica@hotmail.com)
+Endereço: R. Tiquatira, 609 - Bosque da Saúde, São Paulo - SP, 04137-111
+
+## Direitos reservados
+
+© 2016 A.N. Instalações Elétricas. Todos os direitos reservados.
+
+20. SEO
+
+Implementar SEO básico na página.
+
+Palavra-chave principal
+
+instalações elétricas São Paulo
+
+Palavras-chave secundárias
+empresa de instalações elétricas SP
+eletricista em São Paulo
+manutenção elétrica São Paulo
+projetos elétricos São Paulo
+laudo elétrico São Paulo
+vistoria elétrica São Paulo
+quadro elétrico São Paulo
+instalação elétrica residencial São Paulo
+instalação elétrica comercial São Paulo
+manutenção elétrica preventiva SP
+manutenção elétrica corretiva SP
+empresa de elétrica em São Paulo
+Palavras-chave locais
+instalações elétricas Bosque da Saúde
+eletricista Bosque da Saúde
+empresa elétrica Vila da Saúde
+instalação elétrica zona sul São Paulo
+manutenção elétrica zona sul SP
+eletricista zona sul São Paulo
+empresa de elétrica zona sul
+Meta title
+
+A.N. Instalações Elétricas | Instalações e Manutenção Elétrica em São Paulo
+
+Meta description
+
+Empresa de instalações elétricas em São Paulo com mais de 18 anos de experiência. Projetos, manutenção elétrica, laudos, vistorias e soluções para residências e empresas.
+
+Implementar:
+
+title
+meta description
+Open Graph básico
+alt text nas imagens
+headings bem organizados
+HTML semântico
+conteúdo local para São Paulo e Bosque da Saúde
+21. Schema.org LocalBusiness
+
+Implementar JSON-LD com Schema.org LocalBusiness.
+
+Dados:
+
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "A.N. Instalações Elétricas",
+  "legalName": "A.N. Instalações Elétricas",
+  "taxID": "09.420.215/0001-36",
+  "foundingDate": "2008-02-11",
+  "description": "Empresa de instalações elétricas em São Paulo, especializada em projetos, manutenções, vistorias, laudos e soluções elétricas residenciais, comerciais e prediais.",
+  "telephone": "+55 11 98174-1828",
+  "email": "an_eletrica@hotmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "R. Tiquatira, 609 - Bosque da Saúde",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "04137-111",
+    "addressCountry": "BR"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "São Paulo"
+  },
+  "priceRange": "$$",
+  "serviceType": [
+    "Instalações elétricas",
+    "Manutenção elétrica",
+    "Projetos elétricos",
+    "Laudos elétricos",
+    "Vistorias elétricas",
+    "Quadros elétricos",
+    "Painéis elétricos"
+  ]
+}
+22. Google Analytics e Google Tag Manager
+
+Preparar o código para receber:
+
+Google Analytics
+Google Tag Manager
+
+Deixar comentários no código indicando onde inserir os IDs.
+
+Preparar eventos em JavaScript para rastrear:
+
+clique no WhatsApp
+envio do formulário
+clique no telefone
+clique no e-mail
+
+Usar nomes de eventos claros, por exemplo:
+
+click_whatsapp
+submit_contact_form
+click_phone
+click_email
+23. Acessibilidade e boas práticas

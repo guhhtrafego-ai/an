@@ -1,0 +1,12 @@
+# Serve o index.html para rotas "limpas" que não existem como arquivo/pasta
+# de verdade (ex: /inicio, /clientes, /servicos, /sobre, /projetos, /contato).
+# Sem isso, entrar direto nessas URLs (digitando, atualizando a página ou
+# abrindo um link compartilhado) devolve 404, porque o site é uma página
+# única (index.html) com navegação por JavaScript.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^ index.html [L]
+</IfModule>
